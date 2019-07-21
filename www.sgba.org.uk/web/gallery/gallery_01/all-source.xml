@@ -1,0 +1,305 @@
+﻿<?xml version="1.0"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<photoCollection mode="publish">
+<display>
+<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="136750382575960058" idplateEnabled="false" css="&#xA;				#previewFull {background-color: #666666 !important; width: 1082px !important; color: inherit}&#xA;				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.borderRightDotted {border-right: 1px dotted #787878 !important;}&#xA;				.logo {display: none !important;}&#xA;				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.emptyThumbnail {background-color: #949494 !important; color: inherit;}&#xA;				.thumbnail {background-color: #949494 !important; color: inherit;}&#xA;				.previewFullImage {height: 1052px !important; width: 1082px !important;}&#xA;				#stage2 {width: 1082px !important;}&#xA;				.itemNumber {display: none !important; color: #9c9c9c !important; background-color: inherit;}&#xA;				#content {background-color: #4c4c4c !important; color: inherit;}&#xA;				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}&#xA;				#stage {width: 968px !important;}&#xA;				.caption {color: #b3b3b3 !important; background-color: inherit;}&#xA;				#wrapper2 {width: 1082px !important;}&#xA;				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}&#xA;				#wrapper {width: 968px !important;}&#xA;				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}&#xA;				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				#thumbnailName {color: #b3b3b3 !important; background-color: inherit;}&#xA;				#largeName {color: #b3b3b3 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}&#xA;				.borderBottom {border-bottom: 1px solid #787878 !important;}&#xA;				.borderRight {border-right: 1px solid #787878 !important;}&#xA;				body {background-color: #4c4c4c !important; color: inherit;}&#xA;			" identityPlateAbsolutePath="" numCols="6" numRows="3" homePage="index.html" imageBase="content" cellColor="#949494">
+</style>
+<metadata>
+<creationDate formatted="Thu May 02 2013 15:10:25 GMT+0100"></creationDate>
+<groupTitle value="Welcome to the Safety Boats 25 April 2013"></groupTitle>
+<contactInfo value="Photographs taken by Eleanor Stobbart Photography" link="mailto:info@eleanorstobbart.co.uk"></contactInfo>
+<siteTitle value="Stoke Gabriel Boating Association"></siteTitle>
+<groupDescription value=""></groupDescription>
+</metadata>
+<localization>
+<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+<item id="Fullsize" localized="Fullsize"></item>
+<item id="Next" localized="Next"></item>
+<item id="Previous" localized="Previous"></item>
+<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+<item id="more" localized="more"></item>
+<item id="Index" localized="Index"></item>
+</localization>
+</display>
+<head>
+<siteTitle></siteTitle>
+<collectionName></collectionName>
+<collectionTitle></collectionTitle>
+<collectionDescription></collectionDescription>
+<contactInfo></contactInfo>
+<slideDuration></slideDuration>
+<sizes>
+<size name="large" height="1052" width="1052"></size>
+<size name="thumb" height="129" width="129"></size>
+</sizes>
+</head>
+<samples totalGallerySize="32" firstSampleIndex="1">
+<img orientation="BC" imageID="0_1367503825759" filename="SGBA_1" tipname="%_tempFileNameSGBA_1%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_1.jpg" height="1000" width="667" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_1.jpg" height="129" width="86" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="1_1367503825759" filename="SGBA_3" tipname="%_tempFileNameSGBA_3%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_3.jpg" height="1000" width="667" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_3.jpg" height="129" width="86" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="2_1367503825759" filename="SGBA_5" tipname="%_tempFileNameSGBA_5%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_5.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_5.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="3_1367503825775" filename="SGBA_6" tipname="%_tempFileNameSGBA_6%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_6.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_6.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="4_1367503825775" filename="SGBA_7" tipname="%_tempFileNameSGBA_7%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_7.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_7.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="5_1367503825775" filename="SGBA_8" tipname="%_tempFileNameSGBA_8%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_8.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_8.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="6_1367503825775" filename="SGBA_11" tipname="%_tempFileNameSGBA_11%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_11.jpg" height="1000" width="667" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_11.jpg" height="129" width="86" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="7_1367503825775" filename="SGBA_12" tipname="%_tempFileNameSGBA_12%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_12.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_12.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="8_1367503825775" filename="SGBA_13" tipname="%_tempFileNameSGBA_13%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_13.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_13.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="9_1367503825775" filename="SGBA_16" tipname="%_tempFileNameSGBA_16%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_16.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_16.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="10_1367503825775" filename="SGBA_17" tipname="%_tempFileNameSGBA_17%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_17.jpg" height="1000" width="667" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_17.jpg" height="129" width="86" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="11_1367503825775" filename="SGBA_22" tipname="%_tempFileNameSGBA_22%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_22.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_22.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="12_1367503825775" filename="SGBA_23" tipname="%_tempFileNameSGBA_23%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_23.jpg" height="1000" width="667" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_23.jpg" height="129" width="86" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="13_1367503825775" filename="SGBA_25" tipname="%_tempFileNameSGBA_25%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_25.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_25.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="14_1367503825791" filename="SGBA_26" tipname="%_tempFileNameSGBA_26%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_26.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_26.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="15_1367503825791" filename="SGBA_27" tipname="%_tempFileNameSGBA_27%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_27.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_27.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="16_1367503825791" filename="SGBA_30" tipname="%_tempFileNameSGBA_30%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_30.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_30.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="17_1367503825791" filename="SGBA_31" tipname="%_tempFileNameSGBA_31%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_31.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_31.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="18_1367503825791" filename="SGBA_34" tipname="%_tempFileNameSGBA_34%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_34.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_34.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="19_1367503825791" filename="SGBA_35" tipname="%_tempFileNameSGBA_35%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_35.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_35.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="20_1367503825791" filename="SGBA_37" tipname="%_tempFileNameSGBA_37%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_37.jpg" height="1000" width="667" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_37.jpg" height="129" width="86" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="21_1367503825791" filename="SGBA_38" tipname="%_tempFileNameSGBA_38%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_38.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_38.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="22_1367503825791" filename="SGBA_39" tipname="%_tempFileNameSGBA_39%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_39.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_39.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="23_1367503825791" filename="SGBA_40" tipname="%_tempFileNameSGBA_40%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_40.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_40.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="24_1367503825806" filename="SGBA_45" tipname="%_tempFileNameSGBA_45%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_45.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_45.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="25_1367503825806" filename="SGBA_47" tipname="%_tempFileNameSGBA_47%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_47.jpg" height="1000" width="667" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_47.jpg" height="129" width="86" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="26_1367503825806" filename="SGBA_52" tipname="%_tempFileNameSGBA_52%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_52.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_52.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="27_1367503825806" filename="SGBA_53" tipname="%_tempFileNameSGBA_53%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_53.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_53.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="28_1367503825806" filename="SGBA_54" tipname="%_tempFileNameSGBA_54%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_54.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_54.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="29_1367503825806" filename="SGBA_55" tipname="%_tempFileNameSGBA_55%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_55.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_55.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="30_1367503825806" filename="SGBA_58" tipname="%_tempFileNameSGBA_58%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_58.jpg" height="667" width="1000" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_58.jpg" height="86" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="31_1367503825806" filename="SGBA_61" tipname="%_tempFileNameSGBA_61%">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/SGBA_61.jpg" height="1000" width="667" size="large"></rendition>
+<rendition path="content/bin/images/thumb/SGBA_61.jpg" height="129" width="86" size="thumb"></rendition>
+</img>
+</samples>
+<siteParams>
+<firstImage index="1"></firstImage>
+<lastImage index="32"></lastImage>
+<mode value="all"></mode>
+</siteParams>
+</photoCollection>
