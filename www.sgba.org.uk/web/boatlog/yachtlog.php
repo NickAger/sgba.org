@@ -1,7 +1,7 @@
 <?php
 /* Set e-mail recipient */
 $myemail  = "commodore@sgba.org.uk";
-$subject = "SGBA Yacht Log Sheet";
+$subject = "SGBA Dinghy Log Sheet";
 
 //* Check all form inputs using check_input function */
 $from = check_input($_POST['from'], "Please enter your name");
@@ -31,7 +31,7 @@ End of message
 mail($myemail, $subject, $message);
 
 /* Redirect visitor to the thank you page */
-header('Location: thankyou-yacht log.htm');
+header('Location: thankyou-dinghy-log.htm');
 exit();
 
 /* Functions we used */

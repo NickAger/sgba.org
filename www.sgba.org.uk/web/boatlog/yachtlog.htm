@@ -1,71 +1,78 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<title>SGBA Yacht Log</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>SGBA Dinghy Log</title>
 
-<link rel="stylesheet" href="redmond.datepick.css" type="text/css">
-<link rel="stylesheet" href="style.css" type="text/css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<link rel="stylesheet" href="redmond.datepick.css" type="text/css">
+	<link rel="stylesheet" href="style.css" type="text/css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
-<script src="js/jquery.plugin.min.js"></script>
-<script src="js/jquery.datepick.js"></script>
-<script>
-$(function() {
-	$('#date').datepick();
-	$('#inlineDatepicker').datepick({onSelect: showDate});
-});
+	<script src="js/jquery.plugin.min.js"></script>
+	<script src="js/jquery.datepick.js"></script>
+	<script>
+		$(function () {
+			$('#date').datepick();
+			$('#inlineDatepicker').datepick({
+				onSelect: showDate
+			});
+		});
 
-function showDate(date) {
-	alert('The date chosen is ' + date);
-}
-</script>
+		function showDate(date) {
+			alert('The date chosen is ' + date);
+		}
+	</script>
 </head>
-<body>
-
 
 <body>
-<div id="wrapper">
-<div id="container">
-<div class="lcol" style="width: 550px;">
-<h1>SGBA YACHT LOG</h1>
-<form action="yachtlog.php" method="post">
-<p class="bold"><input size="35"  name="from" type="text">&nbsp; Your Name</p>
-
-<p class="bold">Which Boat did you use?<br>
-<input type="radio" name="boat" value="Drascombe Lugger">Drascombe Lugger
-<input type="radio" name="boat" value="Wanderer">Wanderer</p>
-
-<p class="bold"><input type="text" id="date" name="date">&nbsp; Date boat taken out</p>
-<p class="bold"><input size="20"  name="time" type="text">&nbsp; Time on Water</p>
 
 
+	<body>
+		<div id="wrapper">
+			<div id="container">
+				<div class="lcol" style="width: 550px;">
+					<h1>SGBA Dinghy Log</h1>
+					<form action="yachtlog.php" method="post">
+						<p class="bold"><input size="35" name="from" type="text">&nbsp; Your Name</p>
 
+						<p class="bold">Which Boat did you use?<br>
+							<input type="radio" name="boat" value="Drascombe Lugger">Drascombe Lugger
+							<input type="radio" name="boat" value="Wanderer">Placeholder Dinghy</p>
 
-
-
-
-
-<p class="bold">Please list any problems/observations</p>
-<p class="bold"><textarea name="comments" rows="10" cols="35"></textarea> </p>
-<p class="bold">
-<input value="Send message" type="submit"> <input value="Clear Form" type="reset"></p>
-</form>
-</div>
-<div class="rcol" style="width:250px;">
-<h1>Filling in the form</h1>
-
-<p class="bold">You must fill in all the fields otherwise the form will show an error and prompt you to complete the empty field.</p>
-<p class="bold">Thank you for doing this, it helps the Quartermaster to make sure that the boat is ready for the next user.</p>
-</div>
+						<p class="bold"><input type="text" id="date" name="date">&nbsp; Date boat taken out</p>
+						<p class="bold"><input size="20" name="time" type="text">&nbsp; Time on Water</p>
 
 
 
 
 
-<div id="footer">
-</div>
-</div>
-</div>
-</body>
+
+
+
+						<p class="bold">Please list any problems/observations</p>
+						<p class="bold"><textarea name="comments" rows="10" cols="35"></textarea> </p>
+						<p class="bold">
+							<input value="Send message" type="submit"> <input value="Clear Form" type="reset"></p>
+					</form>
+				</div>
+				<div class="rcol" style="width:250px;">
+					<h1>Filling in the form</h1>
+
+					<p class="bold">You must fill in all the fields otherwise the form will show an error and prompt you
+						to complete the empty field.</p>
+					<p class="bold">Thank you for doing this, it helps the Quartermaster to make sure that the boat is
+						ready for the next user.</p>
+				</div>
+
+
+
+
+
+				<div id="footer">
+				</div>
+			</div>
+		</div>
+	</body>
+
 </html>
