@@ -355,17 +355,17 @@ specific issue please contact the relevant committee member.</p>
 
 
 
-      <td>RYA Course Principal</td>
+      <td>RYA Principal</td>
 
 
 
 
-      <td>Anne Davis</td>
+      <td>Peter Waite</td>
 
 
 
 
-      <td align="left">782235</td>
+      <td align="left">01189 477412</td>
 
 
 
@@ -553,15 +553,6 @@ Text during office hours</td>
       <td>Committee member</td>
       <td>Steve Goodchild</td>
       <td>07766 333908</td>
-    </tr>
-    <tr>
-
-      <td>Committee Member</td>
-
-      <td>Andrew Morrell</td>
-
-      <td>01803 550066</td>
-
     </tr>
 
 
