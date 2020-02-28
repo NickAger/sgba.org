@@ -1,2 +1,3 @@
-RewriteEngine On
-RewriteRule ^(.*)$ https://sgba.org.uk/ [R=301]
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^www\.sgba\.org.uk$ [NC] 
+RewriteRule ^(.*)$ https://sgba.org.uk [L,R=301] 
